@@ -19,6 +19,7 @@
 		"react": "16.6.1",
 		"react-dom": "16.6.1",
 		"react-native": "0.57.7",
+		"react-native-markdown-view": "^1.1.4",
 		"react-native-vector-icons": "^4.4.2",
 		"react-native-web": "0.9.9"
 	},
