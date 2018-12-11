@@ -15,7 +15,7 @@ const babelLoaderConfiguration = {
       // the modules needed by the app
       plugins: ['react-native-web'],
       // The 'react-native' preset is recommended (or use your own .babelrc)
-      presets: ['react-native'],
+      presets: ['module:metro-react-native-babel-preset'],
     },
   },
 };

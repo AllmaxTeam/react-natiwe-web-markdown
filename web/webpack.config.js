@@ -20,6 +20,7 @@ const devServer = {
 module.exports = {
   // ...the rest of your config
   devServer,
+  mode: 'development',
   entry: [path.resolve(__dirname, '../index.web.js')],
   module: {
     rules: [
