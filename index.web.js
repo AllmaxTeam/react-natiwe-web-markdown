@@ -15,6 +15,7 @@ const renderApp = () => (
 
 AppRegistry.registerComponent('ReactNativeWebBoilerplate', () => renderApp);
 
+// $FlowFixMe
 if (module.hot) {
   // $FlowFixMe
   module.hot.accept();
