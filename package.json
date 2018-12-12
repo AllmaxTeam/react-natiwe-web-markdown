@@ -16,12 +16,12 @@
 	"author": "alejandro garcia <agrcrobles@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"react": "16.6.1",
-		"react-dom": "16.6.1",
+		"react": "16.3.1",
+		"react-dom": "16.3.1",
 		"react-native": "0.57.7",
 		"react-native-markdown-view": "^1.1.4",
 		"react-native-vector-icons": "^4.4.2",
-		"react-native-web": "0.9.9"
+		"react-native-web": "0.8.9"
 	},
 	"devDependencies": {
 		"babel-jest": "23.6.0",
