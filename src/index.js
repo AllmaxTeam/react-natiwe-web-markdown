@@ -32,7 +32,7 @@ class MainScreen extends React.Component<{}> {
           {'\n'}
           * Easy to use{'\n'}
           * Looks good by default{'\n'}
-          * Is __extensible__{'\n'}{'\n'}
+          * Is __extensible__{'\n\n'}
           Markdown | Less | Pretty{'\n'}
           --- | --- | ---{'\n'}
           *Still* | `renders` | **nicely**{'\n'}
