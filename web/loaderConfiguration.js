@@ -6,6 +6,8 @@ const babelLoaderConfiguration = {
   include: [
     path.resolve(__dirname, '../index.web.js'),
     path.resolve(__dirname, '../src'),
+    path.resolve(__dirname, '../node_modules/react-native-markdown-view'),
+    path.resolve(__dirname, '../node_modules/react-native-tabular-grid-markdown-view'),
   ],
   use: {
     loader: 'babel-loader',
